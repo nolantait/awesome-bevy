@@ -29,3 +29,29 @@ Only resources that are up to date with the latest `0.14` Bevy will be included.
 - [`leafwing-input-manager`](https://github.com/Leafwing-Studios/leafwing-input-manager): A straightforward stateful input manager for the Bevy game engine. This library is being upstreamed into Bevy
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
 - [`bevy_mod_picking`](https://github.com/aevyrie/bevy_mod_picking):  Picking and pointer events for Bevy. This library is being upstreamed into Bevy
+
+## Networking
+
+- [`lightyear`](https://github.com/cBournhonesque/lightyear): A library for writing server-authoritative multiplayer games with Bevy
+- [`bevy_replicon`](https://github.com/projectharmonia/bevy_replicon): Server-authoritative networking crate for the Bevy game engine
+
+## Graphics and Rendering
+
+- [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi): a GPU particle system plugin for the Bevy game engine
+
+## Physics
+
+- [`avian`](https://github.com/Jondolf/avian): ECS-driven 2D and 3D physics engine for the Bevy game engine
+- [`bevy_rapier`](https://github.com/dimforge/bevy_rapier):  Official Rapier plugin for the Bevy game engine
+
+## Pathfinding
+
+- [`vleue_navigator`](https://github.com/vleue/vleue_navigator):  Pathfinding on NavMeshes for Bevy
+
+## Animation
+
+- [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph):  Animation graphs in Bevy
+
+## Misc
+
+- [`big_space`](https://github.com/aevyrie/big_space): Floating origin plugin for spaces larger than the universe
