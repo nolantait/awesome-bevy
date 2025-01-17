@@ -60,6 +60,7 @@ Only resources that are up to date with the latest `0.14` Bevy will be included.
 ## Assets
 
 - [`bevy_asset_loader`](https://github.com/NiklasEi/bevy_asset_loader): Bevy plugin helping with asset loading and organization
+- [`bevy_rpack`](https://github.com/Leinnan/rpack)`: Create tilemaps in seconds!
 
 ## Physics
 
