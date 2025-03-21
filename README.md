@@ -44,6 +44,7 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 ## Code organization
 
 - [`seldom_state`](https://github.com/Seldom-SE/seldom_state): Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
+- [`bevt_lint`](https://github.com/TheBevyFlock/bevy_cli): A prototype Bevy CLI tool intended to streamline common tasks when working on projects.
 
 ## Editors
 
