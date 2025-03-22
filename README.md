@@ -76,7 +76,8 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 ## Physics
 
 - [`avian`](https://github.com/Jondolf/avian): ECS-driven 2D and 3D physics engine for the Bevy game engine
-- [`bevy_rapier`](https://github.com/dimforge/bevy_rapier):  Official Rapier plugin for the Bevy game engine
+- [`bevy_rapier`](https://github.com/dimforge/bevy_rapier): Official Rapier plugin for the Bevy game engine
+- [`bevy_heavy`](https://github.com/Jondolf/bevy_heavy): Mass properties for Bevy's geometric primitives.
 
 ## Pathfinding
 
