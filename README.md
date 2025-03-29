@@ -12,7 +12,7 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 - [Animation](#animation)
 - [Assets](#assets)
 - [Code organization](#code-organization)
-- [Editor](#editor)
+- [Editor and Workflow](#editor)
 - [Graphics and Rendering](#graphics-and-rendering)
 - [Input](#input)
 - [Misc](#misc)
@@ -54,20 +54,31 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 ## Animation
 
-- [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph):  Animation graphs in Bevy
+- [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph): Animation graphs in Bevy
+- [`bevy_lookup_curve`](https://github.com/villor/bevy_lookup_curve): Editable lookup curve for Bevy
 
-## Code organization
+## Code Organization
 
 - [`seldom_state`](https://github.com/Seldom-SE/seldom_state): Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
 - [`bevy_cli`](https://github.com/TheBevyFlock/bevy_cli): A prototype Bevy CLI tool intended to streamline common tasks when working on projects.
+- [`bevy_behave`](https://github.com/RJ/bevy_behave): Behaviour trees for bevy, with on-demand entity spawning for task nodes
+- [`bevy_flurx`](https://github.com/not-elm/bevy_flurx): Allows you to use coroutine in Bevy
+- [`bevy_save`](https://github.com/hankjordan/bevy_save): A framework for saving and loading application state in Bevy
+- [`beet`](https://github.com/mrchantey/beet): Tools for developing reactive structures in rust
 
-## Editors
+## Editors and Workflow
 
 - [`blenvy`](https://github.com/kaosat-dev/Blenvy): Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender
+- [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
+- [`bevy_mod_scripting`](https://github.com/makspll/bevy_mod_scripting/): Bevy Scripting Plugin
+- [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline): a Bevy plugin for drawing outlines around meshes using the vertex extrusion and jump flood methods
+- [`bevy_trenchbroom`](https://github.com/Noxmore/bevy_trenchbroom): Quake map editor, TrenchBroom integration, .map, and .bsp loading for Bevy 
 
 ## Graphics and Rendering
 
 - [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi): a GPU particle system plugin for the Bevy game engine
+- [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
+- [`bevy_vello`](https://github.com/linebender/bevy_vello): An integration to render with Vello in the Bevy game engine
 
 ## Input
 
@@ -82,12 +93,16 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_replicon`](https://github.com/projectharmonia/bevy_replicon): Server-authoritative networking crate for the Bevy game engine
 - [`bevy_renet`](https://github.com/lucaspoffo/renet/tree/master/bevy_renet): A Bevy Plugin for the renet crate. A network crate for Server/Client with cryptographically secure authentication and encypted packets. Designed for fast paced competitive multiplayer games
 - [`renet2`](https://github.com/UkoeHB/renet2/): Renet2 is a network library for Server/Client games written in rust. It is focused on fast-paced games such as FPS, and competitive games
+- [`bevy_rewind`](https://github.com/NiseVoid/bevy_rewind): Server-authoritative rollback networking for bevy
+- [`bevy_oxr`](https://github.com/awtterpip/bevy_oxr): A crate for adding openxr (and in the future webxr) support to Bevy
+- [`bevy_streaming`](https://github.com/rlamarche/bevy_streaming): Bevy Streaming for Cloud Gaming through WebRTC
 
 ## Misc
 
 - [`big_space`](https://github.com/aevyrie/big_space): Floating origin plugin for spaces larger than the universe
 - [`bevy_mod_raycast`](https://github.com/aevyrie/bevy_mod_raycast/): A little mesh raycasting plugin for Bevy
 - [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card):  A card crate for the Bevy game engine
+- [`bevy_serialization_extras`](https://github.com/rydb/bevy_serialization_extras): Contains plugins/systems to make serialization/deserialization with bevy smoother
 
 ## Physics
 
@@ -98,6 +113,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Pathfinding
 
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator):  Pathfinding on NavMeshes for Bevy
+- [`bevy_flowfield_tiles_plugin`](https://github.com/BlondeBurrito/bevy_flowfield_tiles_plugin): Bevy plugin for Flowfield based pathfinding
 
 ## UI
 
@@ -107,3 +123,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_cobweb_ui`](https://github.com/UkoeHB/bevy_cobweb_ui):  Reactive UI framework for Bevy
 - [`haalka`](https://github.com/databasedav/haalka): Ergonomic reactive Bevy UI library powered by FRP signals
 - [`i-cant-believe-its-not-bsn`](https://github.com/Leafwing-Studios/i-cant-believe-its-not-bsn): Early preview of Cart's vision of BSN
+- [`bevy_plot`](https://github.com/eliotbo/bevy_plot): Plotting library for the Bevy game engine
+- [`transform-gizmo`](https://github.com/urholaukkarinen/transform-gizmo): 3d transformation gizmo
+- [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
