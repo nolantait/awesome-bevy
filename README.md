@@ -24,7 +24,10 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 
 - [Tainted Coders](https://taintedcoders.com)
 - [Unofficial Bevy Cheatbook](https://bevy-cheatbook.github.io/)
-- [Simple Bevy Tutorial](https://github.com/fogarecious/bevy_tutorial/tree/main): Breaks the version rule above but still great content
+- [Simple Bevy Tutorial](https://github.com/fogarecious/bevy_tutorial/tree/main):
+  Breaks the version rule above but still great content
+- [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/): Not
+  quite bevy but an awesome read, lots of crossover
 
 ## Starters
 
