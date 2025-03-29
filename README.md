@@ -8,6 +8,7 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 
 - [Resources](#resources)
 - [Starters](#starters)
+- [Open Source Projects](#open-source-games)
 - [Animation](#animation)
 - [Assets](#assets)
 - [Code organization](#code-organization)
@@ -38,6 +39,13 @@ Only resources that are up to date with at least `0.14` Bevy will be included.
 - [`bevy_game_template`](https://github.com/NiklasEi/bevy_game_template)
 - [`bevy_github_ci_template`](https://github.com/bevyengine/bevy_github_ci_template)
 - [`limitpush`](https://github.com/heydocode/limitpush)
+
+## Open Source Projects
+
+Not all resources in this section will be up to date but are useful nonetheless
+
+- [Emergence](https://github.com/leafwing-studios/emergence?tab=readme-ov-file)
+- [Digial Extinction](https://github.com/DigitalExtinction/Game)
 
 ## Assets
 
