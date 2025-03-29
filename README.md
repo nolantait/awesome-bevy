@@ -87,6 +87,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`big_space`](https://github.com/aevyrie/big_space): Floating origin plugin for spaces larger than the universe
 - [`bevy_mod_raycast`](https://github.com/aevyrie/bevy_mod_raycast/): A little mesh raycasting plugin for Bevy
+- [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card):  A card crate for the Bevy game engine
 
 ## Physics
 
