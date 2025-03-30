@@ -46,6 +46,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [Emergence](https://github.com/leafwing-studios/emergence?tab=readme-ov-file)
 - [Digial Extinction](https://github.com/DigitalExtinction/Game)
+- [Riverbed](https://github.com/Inspirateur/riverbed)
+- [Power](https://github.com/Kevenpvp/Power)
 
 ## Assets
 
@@ -56,6 +58,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph): Animation graphs in Bevy
 - [`bevy_lookup_curve`](https://github.com/villor/bevy_lookup_curve): Editable lookup curve for Bevy
+- [`bevy_magic_fx`](https://github.com/ethereumdegen/bevy_magic_fx): Define mesh-based VFX in RON files and load them into bevy
 
 ## Code Organization
 
@@ -73,6 +76,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_mod_scripting`](https://github.com/makspll/bevy_mod_scripting/): Bevy Scripting Plugin
 - [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline): a Bevy plugin for drawing outlines around meshes using the vertex extrusion and jump flood methods
 - [`bevy_trenchbroom`](https://github.com/Noxmore/bevy_trenchbroom): Quake map editor, TrenchBroom integration, .map, and .bsp loading for Bevy 
+- [`bevy_mod_debugdump`](https://github.com/jakobhellermann/bevy_mod_debugdump): Dump your schedules for visual inspection
 
 ## Graphics and Rendering
 
@@ -109,6 +113,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`avian`](https://github.com/Jondolf/avian): ECS-driven 2D and 3D physics engine for the Bevy game engine
 - [`bevy_rapier`](https://github.com/dimforge/bevy_rapier): Official Rapier plugin for the Bevy game engine
 - [`bevy_heavy`](https://github.com/Jondolf/bevy_heavy): Mass properties for Bevy's geometric primitives.
+- [`bevy_transform_interpolation`](https://github.com/Jondolf/bevy_transform_interpolation): Transfom interpolation for fixed timesteps for the Bevy game engine
 
 ## Pathfinding
 
@@ -126,3 +131,4 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_plot`](https://github.com/eliotbo/bevy_plot): Plotting library for the Bevy game engine
 - [`transform-gizmo`](https://github.com/urholaukkarinen/transform-gizmo): 3d transformation gizmo
 - [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
+- [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
