@@ -114,6 +114,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_rapier`](https://github.com/dimforge/bevy_rapier): Official Rapier plugin for the Bevy game engine
 - [`bevy_heavy`](https://github.com/Jondolf/bevy_heavy): Mass properties for Bevy's geometric primitives.
 - [`bevy_transform_interpolation`](https://github.com/Jondolf/bevy_transform_interpolation): Transfom interpolation for fixed timesteps for the Bevy game engine
+- [`avian_pickup`](https://github.com/janhohenheim/avian_pickup): A plugin for implementing picking up dynamic rigid bodies in Avian physics for the Bevy engine
 
 ## Pathfinding
 
