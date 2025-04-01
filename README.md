@@ -2,7 +2,7 @@
 
 This is an awesome list maintained by https://taintedcoders.com.
 
-Only resources that are up to date with at least `0.14` Bevy will be included.
+Only resources that are up to date with at least `0.15` Bevy will be included.
 
 ## Table of contents
 
@@ -88,7 +88,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`leafwing-input-manager`](https://github.com/Leafwing-Studios/leafwing-input-manager): A straightforward stateful input manager for the Bevy game engine. This library is being upstreamed into Bevy
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
-- [`bevy_mod_picking`](https://github.com/aevyrie/bevy_mod_picking):  Picking and pointer events for Bevy. This library is being upstreamed into Bevy
+- [`bevy_mod_picking`](https://github.com/aevyrie/bevy_mod_picking): Picking and pointer events for Bevy. This library is being upstreamed into Bevy
 - [`bevy_enhanced_input`](https://github.com/projectharmonia/bevy_enhanced_input): Dynamic and contextual input mappings for Bevy
 
 ## Networking
@@ -105,7 +105,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`big_space`](https://github.com/aevyrie/big_space): Floating origin plugin for spaces larger than the universe
 - [`bevy_mod_raycast`](https://github.com/aevyrie/bevy_mod_raycast/): A little mesh raycasting plugin for Bevy
-- [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card):  A card crate for the Bevy game engine
+- [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card): A card crate for the Bevy game engine
 - [`bevy_serialization_extras`](https://github.com/rydb/bevy_serialization_extras): Contains plugins/systems to make serialization/deserialization with bevy smoother
 
 ## Physics
@@ -117,7 +117,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 ## Pathfinding
 
-- [`vleue_navigator`](https://github.com/vleue/vleue_navigator):  Pathfinding on NavMeshes for Bevy
+- [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
 - [`bevy_flowfield_tiles_plugin`](https://github.com/BlondeBurrito/bevy_flowfield_tiles_plugin): Bevy plugin for Flowfield based pathfinding
 
 ## UI
@@ -125,7 +125,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_egui`](https://github.com/mvlabat/bevy_egui): An immediate mode UI library
 - [`bevy_lunex`](https://github.com/bytestring-net/bevy_lunex): Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS
 - [`bevy_cosmic_edit`](https://github.com/StaffEngineer/bevy_cosmic_edit): Multiline text editing for bevy apps
-- [`bevy_cobweb_ui`](https://github.com/UkoeHB/bevy_cobweb_ui):  Reactive UI framework for Bevy
+- [`bevy_cobweb_ui`](https://github.com/UkoeHB/bevy_cobweb_ui): Reactive UI framework for Bevy
 - [`haalka`](https://github.com/databasedav/haalka): Ergonomic reactive Bevy UI library powered by FRP signals
 - [`i-cant-believe-its-not-bsn`](https://github.com/Leafwing-Studios/i-cant-believe-its-not-bsn): Early preview of Cart's vision of BSN
 - [`bevy_plot`](https://github.com/eliotbo/bevy_plot): Plotting library for the Bevy game engine
