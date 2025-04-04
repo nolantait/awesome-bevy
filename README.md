@@ -53,6 +53,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_asset_loader`](https://github.com/NiklasEi/bevy_asset_loader): Bevy plugin helping with asset loading and organization
 - [`bevy_rpack`](https://github.com/Leinnan/rpack)`: Create tilemaps in seconds!
+- [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
 
 ## Animation
 
