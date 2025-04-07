@@ -84,6 +84,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi): a GPU particle system plugin for the Bevy game engine
 - [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
 - [`bevy_vello`](https://github.com/linebender/bevy_vello): An integration to render with Vello in the Bevy game engine
+- [`bevy_vulkan`](https://github.com/HugoPeters1024/bevy_vulkan): Vulkan RTX rendering backend for the Bevy game engine written in Rust
 
 ## Input
 
