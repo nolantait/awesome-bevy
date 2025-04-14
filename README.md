@@ -11,6 +11,7 @@ Only resources that are up to date with at least `0.15` Bevy will be included.
 - [Open Source Projects](#open-source-games)
 - [Animation](#animation)
 - [Assets](#assets)
+- [Audio](#audio)
 - [Code organization](#code-organization)
 - [Editor and Workflow](#editor)
 - [Graphics and Rendering](#graphics-and-rendering)
@@ -54,6 +55,10 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_asset_loader`](https://github.com/NiklasEi/bevy_asset_loader): Bevy plugin helping with asset loading and organization
 - [`bevy_rpack`](https://github.com/Leinnan/rpack)`: Create tilemaps in seconds!
 - [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
+
+## Audio
+
+- [`bevy_fmod`](https://github.com/Salzian/bevy_fmod): Idiomatic integration of the FMOD audio engine into Bevy projects
 
 ## Animation
 
