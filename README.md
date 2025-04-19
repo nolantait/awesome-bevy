@@ -113,6 +113,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_mod_raycast`](https://github.com/aevyrie/bevy_mod_raycast/): A little mesh raycasting plugin for Bevy
 - [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card): A card crate for the Bevy game engine
 - [`bevy_serialization_extras`](https://github.com/rydb/bevy_serialization_extras): Contains plugins/systems to make serialization/deserialization with bevy smoother
+- [`bevy_shuffle_bag`](https://github.com/janhohenheim/bevy_shuffle_bag): A tiny crate providing a shuffle bag, which is a collection of items that can endlessly be picked in a random, nonrepeating order.
 
 ## Physics
 
