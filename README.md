@@ -96,6 +96,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`leafwing-input-manager`](https://github.com/Leafwing-Studios/leafwing-input-manager): A straightforward stateful input manager for the Bevy game engine. This library is being upstreamed into Bevy
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
 - [`bevy_enhanced_input`](https://github.com/projectharmonia/bevy_enhanced_input): Dynamic and contextual input mappings for Bevy
+- [`bevy_ui_text_input`](https://github.com/ickshonpe/bevy_ui_text_input): Text input crate for Bevy UI using cosmic text
 
 ## Networking
 
