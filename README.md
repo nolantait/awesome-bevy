@@ -49,12 +49,16 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [Digial Extinction](https://github.com/DigitalExtinction/Game)
 - [Riverbed](https://github.com/Inspirateur/riverbed)
 - [Power](https://github.com/Kevenpvp/Power)
+- [SolarSim](https://github.com/jan-tennert/SolarSim)
+- [Taipo](https://github.com/rparrett/taipo)
 
 ## Assets
 
 - [`bevy_asset_loader`](https://github.com/NiklasEi/bevy_asset_loader): Bevy plugin helping with asset loading and organization
 - [`bevy_rpack`](https://github.com/Leinnan/rpack)`: Create tilemaps in seconds!
 - [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
+- [`bevy_app_compute`](https://github.com/Kjolnyr/bevy_app_compute): An easy way to run wgpu compute shaders within a bevy app
+- [`bevy_march`](https://github.com/NiseVoid/bevy_march): A ray marcher for bevy, which can function alongside the regular mesh-based rendering
 
 ## Audio
 
@@ -141,3 +145,4 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`transform-gizmo`](https://github.com/urholaukkarinen/transform-gizmo): 3d transformation gizmo
 - [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
 - [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
+- [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
