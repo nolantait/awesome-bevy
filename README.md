@@ -59,6 +59,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
 - [`bevy_app_compute`](https://github.com/Kjolnyr/bevy_app_compute): An easy way to run wgpu compute shaders within a bevy app
 - [`bevy_march`](https://github.com/NiseVoid/bevy_march): A ray marcher for bevy, which can function alongside the regular mesh-based rendering
+- [`bevy_materialize`](https://github.com/Noxmore/bevy_materialize): Load, store, and apply type-erased materials in Bevy
 
 ## Audio
 
