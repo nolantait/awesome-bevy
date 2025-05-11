@@ -88,6 +88,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline): a Bevy plugin for drawing outlines around meshes using the vertex extrusion and jump flood methods
 - [`bevy_trenchbroom`](https://github.com/Noxmore/bevy_trenchbroom): Quake map editor, TrenchBroom integration, .map, and .bsp loading for Bevy 
 - [`bevy_mod_debugdump`](https://github.com/jakobhellermann/bevy_mod_debugdump): Dump your schedules for visual inspection
+- [`bevy-inspection.vscode`](https://github.com/foxication/bevy-inspection.vscode): Bevy Inspection - VSCode Extension
 
 ## Graphics and Rendering
 
