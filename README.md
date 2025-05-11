@@ -122,6 +122,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_serialization_extras`](https://github.com/rydb/bevy_serialization_extras): Contains plugins/systems to make serialization/deserialization with bevy smoother
 - [`bevy_shuffle_bag`](https://github.com/janhohenheim/bevy_shuffle_bag): A tiny crate providing a shuffle bag, which is a collection of items that can endlessly be picked in a random, nonrepeating order.
 - [`noiz`](https://github.com/ElliottjPierce/noiz): A simple, configurable, blazingly fast noise library built for and with Bevy
+- [`Meshem`](https://github.com/Adamkob12/Meshem): Provides meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
 
 ## Physics
 
