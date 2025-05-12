@@ -149,6 +149,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
 - [`bevy_flowfield_tiles_plugin`](https://github.com/BlondeBurrito/bevy_flowfield_tiles_plugin): Bevy plugin for Flowfield based pathfinding
 - [`oxidized_navigation`](https://github.com/TheGrimsey/oxidized_navigation): A runtime Nav-Mesh generation plugin for Bevy Engine in Rust
+- [`landmass`](https://github.com/andriyDev/landmass): A Rust crate to provide a navigation system for video game characters to walk around levels
 
 ## UI
 
