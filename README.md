@@ -60,6 +60,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_app_compute`](https://github.com/Kjolnyr/bevy_app_compute): An easy way to run wgpu compute shaders within a bevy app
 - [`bevy_march`](https://github.com/NiseVoid/bevy_march): A ray marcher for bevy, which can function alongside the regular mesh-based rendering
 - [`bevy_materialize`](https://github.com/Noxmore/bevy_materialize): Load, store, and apply type-erased materials in Bevy
+- [`bevy_common_assets`](https://github.com/NiklasEi/bevy_common_assets): Collection of generic asset loaders for common file formats
+- [`bevy_mod_mipmap_generator`](https://github.com/DGriffin91/bevy_mod_mipmap_generator): A basic mipmap generator for Bevy
 
 ## Audio
 
@@ -86,9 +88,10 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
 - [`bevy_mod_scripting`](https://github.com/makspll/bevy_mod_scripting/): Bevy Scripting Plugin
 - [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline): a Bevy plugin for drawing outlines around meshes using the vertex extrusion and jump flood methods
-- [`bevy_trenchbroom`](https://github.com/Noxmore/bevy_trenchbroom): Quake map editor, TrenchBroom integration, .map, and .bsp loading for Bevy 
+- [`bevy_trenchbroom`](https://github.com/Noxmore/bevy_trenchbroom): Quake map editor, TrenchBroom integration, .map, and .bsp loading for Bevy
 - [`bevy_mod_debugdump`](https://github.com/jakobhellermann/bevy_mod_debugdump): Dump your schedules for visual inspection
 - [`bevy-inspection.vscode`](https://github.com/foxication/bevy-inspection.vscode): Bevy Inspection - VSCode Extension
+- [`HillVacuum`](https://github.com/IvoryDuke/HillVacuum): A bevy-based 2D map editor
 
 ## Graphics and Rendering
 
@@ -96,6 +99,10 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
 - [`bevy_vello`](https://github.com/linebender/bevy_vello): An integration to render with Vello in the Bevy game engine
 - [`bevy_vulkan`](https://github.com/HugoPeters1024/bevy_vulkan): Vulkan RTX rendering backend for the Bevy game engine written in Rust
+- [`bevy_sprite3d`](https://github.com/FraserLee/bevy_sprite3d): Use sprites in a 3d bevy scene
+- [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
+- [`seldom_pixel`](https://github.com/Seldom-SE/seldom_pixel): Bevy plugin for limited color palette pixel art games
+- [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
 
 ## Input
 
@@ -113,6 +120,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_rewind`](https://github.com/NiseVoid/bevy_rewind): Server-authoritative rollback networking for bevy
 - [`bevy_oxr`](https://github.com/awtterpip/bevy_oxr): A crate for adding openxr (and in the future webxr) support to Bevy
 - [`bevy_streaming`](https://github.com/rlamarche/bevy_streaming): Bevy Streaming for Cloud Gaming through WebRTC
+- [`bevy_ggrs`](https://github.com/gschup/bevy_ggrs): Bevy plugin for the GGRS P2P rollback networking library
+- [`bevy_quinnet`](https://github.com/Henauxg/bevy_quinnet): A Client/Server game networking plugin using QUIC, for the Bevy game engine
 
 ## Misc
 
@@ -123,6 +132,9 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_shuffle_bag`](https://github.com/janhohenheim/bevy_shuffle_bag): A tiny crate providing a shuffle bag, which is a collection of items that can endlessly be picked in a random, nonrepeating order.
 - [`noiz`](https://github.com/ElliottjPierce/noiz): A simple, configurable, blazingly fast noise library built for and with Bevy
 - [`Meshem`](https://github.com/Adamkob12/Meshem): Provides meshing algorithms for voxel grids, enabling you to create cohesive 3D mesh structures from a grid of cubic voxels
+- [`bevy_framepace`](https://github.com/aevyrie/bevy_framepace): Framepacing and framelimiting for Bevy
+- [`moonshine_save`](https://github.com/Zeenobit/moonshine_save): A save/load framework for Bevy game engine
+- [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
 
 ## Physics
 
@@ -136,6 +148,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
 - [`bevy_flowfield_tiles_plugin`](https://github.com/BlondeBurrito/bevy_flowfield_tiles_plugin): Bevy plugin for Flowfield based pathfinding
+- [`oxidized_navigation`](https://github.com/TheGrimsey/oxidized_navigation): A runtime Nav-Mesh generation plugin for Bevy Engine in Rust
 
 ## UI
 
