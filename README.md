@@ -66,6 +66,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Audio
 
 - [`bevy_fmod`](https://github.com/Salzian/bevy_fmod): Idiomatic integration of the FMOD audio engine into Bevy projects
+- [`bevy_seedling`](https://github.com/CorvusPrudens/bevy_seedling): A sprouting integration of the Firewheel audio engine
 
 ## Animation
 
