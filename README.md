@@ -136,6 +136,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_framepace`](https://github.com/aevyrie/bevy_framepace): Framepacing and framelimiting for Bevy
 - [`moonshine_save`](https://github.com/Zeenobit/moonshine_save): A save/load framework for Bevy game engine
 - [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
+- [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
 
 ## Physics
 
