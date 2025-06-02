@@ -94,6 +94,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_mod_debugdump`](https://github.com/jakobhellermann/bevy_mod_debugdump): Dump your schedules for visual inspection
 - [`bevy-inspection.vscode`](https://github.com/foxication/bevy-inspection.vscode): Bevy Inspection - VSCode Extension
 - [`HillVacuum`](https://github.com/IvoryDuke/HillVacuum): A bevy-based 2D map editor
+- [`vscode-bevy-inspector`](https://github.com/splo/vscode-bevy-inspector): Bevy Inspector Visual Studio Code Extension
 
 ## Graphics and Rendering
 
