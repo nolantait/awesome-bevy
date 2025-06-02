@@ -21,6 +21,7 @@ Only resources that are up to date with at least `0.15` Bevy will be included.
 - [Pathfinding](#pathfinding)
 - [Physics](#physics)
 - [UI](#ui)
+- [Testing](#testing)
 
 ## Resources
 
@@ -166,3 +167,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
 - [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
+
+## Testing
+
+- [`rmv-bevy-testing-tools`](https://github.com/rmvermeulen/rmv-bevy-testing-tools): Some tools to make testing bevy stuff easier
