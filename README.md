@@ -140,6 +140,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`moonshine_save`](https://github.com/Zeenobit/moonshine_save): A save/load framework for Bevy game engine
 - [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
 - [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
+- [`bevy-in-web-worker`](https://github.com/jinleili/bevy-in-web-worker): Running a Bevy app in a Web Worker and interacting with HTML elements and the Bevy engine
 
 ## Physics
 
