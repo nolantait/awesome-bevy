@@ -65,6 +65,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_common_assets`](https://github.com/NiklasEi/bevy_common_assets): Collection of generic asset loaders for common file formats
 - [`bevy_mod_mipmap_generator`](https://github.com/DGriffin91/bevy_mod_mipmap_generator): A basic mipmap generator for Bevy
 - [`bevy_water`](https://github.com/Neopallium/bevy_water): Dynamic ocean material for Bevy
+- [`bevy_terrain`](https://github.com/kurtkuehnert/bevy_terrain): A terrain rendering plugin for the bevy game engine
+
 
 ## Audio
 
