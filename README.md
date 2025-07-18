@@ -87,6 +87,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_flurx`](https://github.com/not-elm/bevy_flurx): Allows you to use coroutine in Bevy
 - [`bevy_save`](https://github.com/hankjordan/bevy_save): A framework for saving and loading application state in Bevy
 - [`beet`](https://github.com/mrchantey/beet): Beet extends the capabilities of bevy with systems for developing and publishing applications
+- [`bevy_gauge`](https://github.com/DEMIURGE-studio/bevy_gauge): A flexible stat and modifier system
 
 ## Editors and Workflow
 
