@@ -118,6 +118,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
 - [`bevy_enhanced_input`](https://github.com/projectharmonia/bevy_enhanced_input): Dynamic and contextual input mappings for Bevy
 - [`bevy_ui_text_input`](https://github.com/ickshonpe/bevy_ui_text_input): Text input crate for Bevy UI using cosmic text
+- [`bevy_pretty_text`](https://github.com/void-scape/pretty-text): Text2D effects library for the Bevy game engine
 
 ## Networking
 
