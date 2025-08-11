@@ -111,6 +111,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
 - [`seldom_pixel`](https://github.com/Seldom-SE/seldom_pixel): Bevy plugin for limited color palette pixel art games
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
+- [`bevy_editor_cam`](https://github.com/aevyrie/bevy_editor_cam): A camera controller for editors and CAD
 
 ## Input
 
