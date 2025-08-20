@@ -53,6 +53,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [SolarSim](https://github.com/jan-tennert/SolarSim)
 - [Taipo](https://github.com/rparrett/taipo)
 - [Chainboom](https://github.com/Bevy-Jam-6/chainboom)
+- [Brotato in Bevy](https://gitlab.com/maxhma2000/brotato-in-bevy)
 
 ## Assets
 
