@@ -12,6 +12,7 @@ Only resources that are up to date with at least `0.15` Bevy will be included.
 - [Animation](#animation)
 - [Assets](#assets)
 - [Audio](#audio)
+- [Cameras](#cameras)
 - [Code organization](#code-organization)
 - [Editor and Workflow](#editor)
 - [Graphics and Rendering](#graphics-and-rendering)
@@ -20,8 +21,9 @@ Only resources that are up to date with at least `0.15` Bevy will be included.
 - [Networking](#networking)
 - [Pathfinding](#pathfinding)
 - [Physics](#physics)
-- [UI](#ui)
+- [Text](#text)
 - [Testing](#testing)
+- [UI](#ui)
 
 ## Resources
 
@@ -81,6 +83,13 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_lookup_curve`](https://github.com/villor/bevy_lookup_curve): Editable lookup curve for Bevy
 - [`bevy_magic_fx`](https://github.com/ethereumdegen/bevy_magic_fx): Define mesh-based VFX in RON files and load them into bevy
 
+## Cameras
+
+- [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
+- [`bevy_editor_cam`](https://github.com/aevyrie/bevy_editor_cam): A camera controller for editors and CAD
+- [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
+- [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
+
 ## Code Organization
 
 - [`seldom_state`](https://github.com/Seldom-SE/seldom_state): Component-based state machine plugin for Bevy. Useful for AI, player state, and other entities that occupy different states.
@@ -106,22 +115,18 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Graphics and Rendering
 
 - [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi): a GPU particle system plugin for the Bevy game engine
-- [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
 - [`bevy_vello`](https://github.com/linebender/bevy_vello): An integration to render with Vello in the Bevy game engine
 - [`bevy_vulkan`](https://github.com/HugoPeters1024/bevy_vulkan): Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [`bevy_sprite3d`](https://github.com/FraserLee/bevy_sprite3d): Use sprites in a 3d bevy scene
 - [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
 - [`seldom_pixel`](https://github.com/Seldom-SE/seldom_pixel): Bevy plugin for limited color palette pixel art games
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
-- [`bevy_editor_cam`](https://github.com/aevyrie/bevy_editor_cam): A camera controller for editors and CAD
 
 ## Input
 
 - [`leafwing-input-manager`](https://github.com/Leafwing-Studios/leafwing-input-manager): A straightforward stateful input manager for the Bevy game engine. This library is being upstreamed into Bevy
-- [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
 - [`bevy_enhanced_input`](https://github.com/projectharmonia/bevy_enhanced_input): Dynamic and contextual input mappings for Bevy
 - [`bevy_ui_text_input`](https://github.com/ickshonpe/bevy_ui_text_input): Text input crate for Bevy UI using cosmic text
-- [`bevy_pretty_text`](https://github.com/void-scape/pretty-text): Text2D effects library for the Bevy game engine
 
 ## Networking
 
@@ -147,7 +152,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_framepace`](https://github.com/aevyrie/bevy_framepace): Framepacing and framelimiting for Bevy
 - [`moonshine_save`](https://github.com/Zeenobit/moonshine_save): A save/load framework for Bevy game engine
 - [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
-- [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
 - [`bevy-in-web-worker`](https://github.com/jinleili/bevy-in-web-worker): Running a Bevy app in a Web Worker and interacting with HTML elements and the Bevy engine
 
 ## Physics
@@ -165,6 +169,15 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`oxidized_navigation`](https://github.com/TheGrimsey/oxidized_navigation): A runtime Nav-Mesh generation plugin for Bevy Engine in Rust
 - [`landmass`](https://github.com/andriyDev/landmass): A Rust crate to provide a navigation system for video game characters to walk around levels
 
+## Text
+
+- [`bevy_pretty_text`](https://github.com/void-scape/pretty-text): Text2D effects library for the Bevy game engine
+- [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
+
+## Testing
+
+- [`rmv-bevy-testing-tools`](https://github.com/rmvermeulen/rmv-bevy-testing-tools): Some tools to make testing bevy stuff easier
+
 ## UI
 
 - [`bevy_egui`](https://github.com/mvlabat/bevy_egui): An immediate mode UI library
@@ -175,10 +188,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`i-cant-believe-its-not-bsn`](https://github.com/Leafwing-Studios/i-cant-believe-its-not-bsn): Early preview of Cart's vision of BSN
 - [`bevy_plot`](https://github.com/eliotbo/bevy_plot): Plotting library for the Bevy game engine
 - [`transform-gizmo`](https://github.com/urholaukkarinen/transform-gizmo): 3d transformation gizmo
-- [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
 - [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
 
-## Testing
 
-- [`rmv-bevy-testing-tools`](https://github.com/rmvermeulen/rmv-bevy-testing-tools): Some tools to make testing bevy stuff easier
