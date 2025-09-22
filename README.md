@@ -191,5 +191,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
 - [`bevy_tailwind`](https://github.com/notmd/bevy_tailwind): TailwindCSS for Bevy
+- [`bevy_immediate`](https://github.com/PPakalns/bevy_immediate/): Immediate mode UI library for Bevy, simple and extensible
 
 
