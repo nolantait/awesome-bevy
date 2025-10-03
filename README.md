@@ -153,6 +153,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`moonshine_save`](https://github.com/Zeenobit/moonshine_save): A save/load framework for Bevy game engine
 - [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
 - [`bevy-in-web-worker`](https://github.com/jinleili/bevy-in-web-worker): Running a Bevy app in a Web Worker and interacting with HTML elements and the Bevy engine
+- [`leafwing_manifest`](https://github.com/leafwing-Studios/leafwing_manifest): Data-driven content generation for Bevy
 
 ## Physics
 
