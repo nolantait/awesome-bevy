@@ -118,6 +118,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_sprite3d`](https://github.com/FraserLee/bevy_sprite3d): Use sprites in a 3d bevy scene
 - [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
+- [`bevy_feronia`](https://github.com/NicoZweifel/bevy_feronia): Environment scattering tools and shaders/materials that prioritize visual fidelity/artistic freedom, a declarative API and modularity
 
 ## Input
 
