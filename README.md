@@ -187,3 +187,4 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
 - [`bevy_tailwind`](https://github.com/notmd/bevy_tailwind): TailwindCSS for Bevy
 - [`bevy_immediate`](https://github.com/PPakalns/bevy_immediate/): Immediate mode UI library for Bevy, simple and extensible
+- [`bevy_material_ui`](https://github.com/edgarhsanchez/bevy_material_ui): Material UI library for bevy UI
