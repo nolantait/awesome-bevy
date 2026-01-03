@@ -88,6 +88,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_editor_cam`](https://github.com/aevyrie/bevy_editor_cam): A camera controller for editors and CAD
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
 - [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
+- [`bevy_flycam`](https://github.com/sburris0/bevy_flycam): Basic first-person fly camera for the Bevy game engine
 
 ## Code Organization
 
