@@ -111,6 +111,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy-inspection.vscode`](https://github.com/foxication/bevy-inspection.vscode): Bevy Inspection - VSCode Extension
 - [`HillVacuum`](https://github.com/IvoryDuke/HillVacuum): A bevy-based 2D map editor
 - [`vscode-bevy-inspector`](https://github.com/splo/vscode-bevy-inspector): Bevy Inspector Visual Studio Code Extension
+- [`BerryCode`](https://github.com/KyosukeIshizu1008/berryscode): A native IDE for Bevy. Scene editor, ECS inspector, code editor with rust-analyzer LSP, written in Bevy + bevy_egui + WGPU
 
 ## Graphics and Rendering
 
