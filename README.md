@@ -37,7 +37,7 @@ Only resources that are up to date with at least `0.18` Bevy will be included.
 ## Starters
 
 - [Tainted Coders - Bevy Starter](https://github.com/nolantait/bevy-starter)
-- [TheBevyFlock - `bevy_new_2d`](https://github.com/TheBevyFlock/bevy_new_2d/tree/main)
+- [`bevy_new_2d`](https://github.com/TheBevyFlock/bevy_new_2d/tree/main)
 - [`bevy_space`](https://github.com/perlindgren/bevy-space)
 - [`bevy_quickstart`](https://github.com/TheBevyFlock/bevy_quickstart)
 - [`bevy_game_template`](https://github.com/NiklasEi/bevy_game_template)
@@ -48,6 +48,7 @@ Only resources that are up to date with at least `0.18` Bevy will be included.
 
 Not all resources in this section will be up to date but are useful nonetheless
 
+- [foxtrot](https://github.com/janhohenheim/foxtrot)
 - [bevy-match-3](https://github.com/alice-i-cecile/bevy-match-3)
 - [Emergence](https://github.com/leafwing-studios/emergence?tab=readme-ov-file)
 - [Digial Extinction](https://github.com/DigitalExtinction/Game)
@@ -118,12 +119,15 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
 - [`bevy_feronia`](https://github.com/NicoZweifel/bevy_feronia): Environment scattering tools and shaders/materials that prioritize visual fidelity/artistic freedom, a declarative API and modularity
+- [`bevy_firework`](https://github.com/mbrea-c/bevy_firework): CPU-driven, batch-rendered particle system for the Bevy game engine
 
 ## Input
 
 - [`leafwing-input-manager`](https://github.com/Leafwing-Studios/leafwing-input-manager): A straightforward stateful input manager for the Bevy game engine. This library is being upstreamed into Bevy
 - [`bevy_enhanced_input`](https://github.com/projectharmonia/bevy_enhanced_input): Dynamic and contextual input mappings for Bevy
 - [`bevy_ui_text_input`](https://github.com/ickshonpe/bevy_ui_text_input): Text input crate for Bevy UI using cosmic text
+- [`bevy_ahoy`](https://github.com/janhohenheim/bevy_ahoy): A fun 3D Kinematic Character Controller for Bevy
+- [`bevy-tnua`](https://github.com/idanarye/bevy-tnua): A floating character controller for Bevy
 
 ## Networking
 
