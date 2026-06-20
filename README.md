@@ -2,7 +2,7 @@
 
 This is an awesome list maintained by https://taintedcoders.com.
 
-Only resources that are up to date with at least `0.16` Bevy will be included.
+Only resources that are up to date with at least `0.18` Bevy will be included.
 
 ## Table of contents
 
@@ -63,7 +63,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_asset_loader`](https://github.com/NiklasEi/bevy_asset_loader): Bevy plugin helping with asset loading and organization
 - [`bevy_rpack`](https://github.com/Leinnan/rpack): Create tilemaps in seconds!
 - [`skein`](https://github.com/rust-adventure/skein): Convert glTF extras to Bevy Components using reflection
-- [`bevy_app_compute`](https://github.com/Kjolnyr/bevy_app_compute): An easy way to run wgpu compute shaders within a bevy app
 - [`bevy_march`](https://github.com/NiseVoid/bevy_march): A ray marcher for bevy, which can function alongside the regular mesh-based rendering
 - [`bevy_materialize`](https://github.com/Noxmore/bevy_materialize): Load, store, and apply type-erased materials in Bevy
 - [`bevy_common_assets`](https://github.com/NiklasEi/bevy_common_assets): Collection of generic asset loaders for common file formats
@@ -80,14 +79,12 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph): Animation graphs in Bevy
 - [`bevy_lookup_curve`](https://github.com/villor/bevy_lookup_curve): Editable lookup curve for Bevy
-- [`bevy_magic_fx`](https://github.com/ethereumdegen/bevy_magic_fx): Define mesh-based VFX in RON files and load them into bevy
 
 ## Cameras
 
 - [`bevy_third_person_camera`](https://github.com/The-DevBlog/bevy_third_person_camera): A third person camera crate written for Bevy
 - [`bevy_editor_cam`](https://github.com/aevyrie/bevy_editor_cam): A camera controller for editors and CAD
 - [`bevy_pancam`](https://github.com/johanhelsing/bevy_pancam): A bevy plugin for panning orthographic cameras
-- [`bevy_ratatui_camera`](https://github.com/cxreiff/bevy_ratatui_camera): A bevy plugin for rendering your bevy app to the terminal using ratatui
 - [`bevy_flycam`](https://github.com/sburris0/bevy_flycam): Basic first-person fly camera for the Bevy game engine
 
 ## Code Organization
@@ -96,10 +93,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_cli`](https://github.com/TheBevyFlock/bevy_cli): A prototype Bevy CLI tool intended to streamline common tasks when working on projects.
 - [`bevy_behave`](https://github.com/RJ/bevy_behave): Behaviour trees for bevy, with on-demand entity spawning for task nodes
 - [`bevy_flurx`](https://github.com/not-elm/bevy_flurx): Allows you to use coroutine in Bevy
-- [`bevy_save`](https://github.com/hankjordan/bevy_save): A framework for saving and loading application state in Bevy
 - [`beet`](https://github.com/mrchantey/beet): Beet extends the capabilities of bevy with systems for developing and publishing applications
 - [`bevy_gauge`](https://github.com/DEMIURGE-studio/bevy_gauge): A flexible stat and modifier system
-- [`bevy_bae`](https://github.com/janhohenheim/bevy_bae): BAE is an implementation of Hierarchical Task Networks (HTN) for Bevy
 
 ## Editors and Workflow
 
@@ -117,7 +112,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_hanabi`](https://github.com/djeedai/bevy_hanabi): a GPU particle system plugin for the Bevy game engine
 - [`bevy_vello`](https://github.com/linebender/bevy_vello): An integration to render with Vello in the Bevy game engine
-- [`bevy_vulkan`](https://github.com/HugoPeters1024/bevy_vulkan): Vulkan RTX rendering backend for the Bevy game engine written in Rust
 - [`bevy_sprite3d`](https://github.com/FraserLee/bevy_sprite3d): Use sprites in a 3d bevy scene
 - [`bevy_vector_shapes`](https://github.com/james-j-obrien/bevy_vector_shapes): A library for rendering vector shapes using the Bevy game engine
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
@@ -145,7 +139,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`big_space`](https://github.com/aevyrie/big_space): Floating origin plugin for spaces larger than the universe
 - [`bevy_play_card`](https://github.com/Rabbival/bevy_play_card): A card crate for the Bevy game engine
-- [`bevy_serialization_extras`](https://github.com/rydb/bevy_serialization_extras): Contains plugins/systems to make serialization/deserialization with bevy smoother
 - [`bevy_shuffle_bag`](https://github.com/janhohenheim/bevy_shuffle_bag): A tiny crate providing a shuffle bag, which is a collection of items that can endlessly be picked in a random, nonrepeating order.
 - [`noiz`](https://github.com/ElliottjPierce/noiz): A simple, configurable, blazingly fast noise library built for and with Bevy
 - [`bevy_framepace`](https://github.com/aevyrie/bevy_framepace): Framepacing and framelimiting for Bevy
@@ -165,8 +158,6 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Pathfinding
 
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
-- [`bevy_flowfield_tiles_plugin`](https://github.com/BlondeBurrito/bevy_flowfield_tiles_plugin): Bevy plugin for Flowfield based pathfinding
-- [`landmass`](https://github.com/andriyDev/landmass): A Rust crate to provide a navigation system for video game characters to walk around levels
 
 ## Text
 
@@ -181,12 +172,9 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_egui`](https://github.com/mvlabat/bevy_egui): An immediate mode UI library
 - [`bevy_lunex`](https://github.com/bytestring-net/bevy_lunex): Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS
-- [`bevy_cobweb_ui`](https://github.com/UkoeHB/bevy_cobweb_ui): Reactive UI framework for Bevy
 - [`haalka`](https://github.com/databasedav/haalka): Ergonomic reactive Bevy UI library powered by FRP signals
-- [`i-cant-believe-its-not-bsn`](https://github.com/Leafwing-Studios/i-cant-believe-its-not-bsn): Early preview of Cart's vision of BSN
 - [`transform-gizmo`](https://github.com/urholaukkarinen/transform-gizmo): 3d transformation gizmo
 - [`bevy_healthbar_3d`](https://github.com/sparten11740/bevy_health_bar3d): Health bar for bevy implemented as a billboard shader
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
-- [`bevy_tailwind`](https://github.com/notmd/bevy_tailwind): TailwindCSS for Bevy
 - [`bevy_immediate`](https://github.com/PPakalns/bevy_immediate/): Immediate mode UI library for Bevy, simple and extensible
 - [`bevy_material_ui`](https://github.com/edgarhsanchez/bevy_material_ui): Material UI library for bevy UI
