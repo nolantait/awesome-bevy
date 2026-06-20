@@ -58,6 +58,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [Chainboom](https://github.com/Bevy-Jam-6/chainboom)
 - [Brotato in Bevy](https://gitlab.com/maxhma2000/brotato-in-bevy)
 - [Dark Wisps Defence](https://github.com/Arrekin/dark-wisps-defence)
+- [nannou](https://github.com/nannou-org/nannou)
 
 ## Assets
 
