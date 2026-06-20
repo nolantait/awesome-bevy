@@ -163,6 +163,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_pretty_text`](https://github.com/void-scape/pretty-text): Text2D effects library for the Bevy game engine
 - [`bevy_rich_text3d`](https://github.com/mintlu8/bevy_rich_text3d): Mesh based bevy text implementation
+- [`bevy_simple_text_input`](https://github.com/rparrett/bevy_simple_text_input): Bevy plugin for a simple single-line text input widget
 
 ## Testing
 
