@@ -164,6 +164,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Pathfinding
 
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
+- [`bevy_northstar`](https://github.com/JtotheThree/bevy_northstar):  Hierachical Pathfinding for Bevy
 
 ## Text
 
