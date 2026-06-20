@@ -140,6 +140,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_streaming`](https://github.com/rlamarche/bevy_streaming): Bevy Streaming for Cloud Gaming through WebRTC
 - [`bevy_ggrs`](https://github.com/gschup/bevy_ggrs): Bevy plugin for the GGRS P2P rollback networking library
 - [`bevy_quinnet`](https://github.com/Henauxg/bevy_quinnet): A Client/Server game networking plugin using QUIC, for the Bevy game engine
+- [`aeronet`](https://github.com/aecsocket/aeronet): Set of Bevy-native networking crates, focused on providing robust and rock-solid data transfer primitives
 
 ## Misc
 
