@@ -103,6 +103,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 ## Editors and Workflow
 
+- [`jackdaw`](https://github.com/jbuehler23/jackdaw): A Bevy scene editor with hierarchy, inspector and 3D viewport
 - [`blenvy`](https://github.com/kaosat-dev/Blenvy): Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender
 - [`bevy_mod_scripting`](https://github.com/makspll/bevy_mod_scripting/): Bevy Scripting Plugin
 - [`bevy_mod_outline`](https://github.com/komadori/bevy_mod_outline): a Bevy plugin for drawing outlines around meshes using the vertex extrusion and jump flood methods
