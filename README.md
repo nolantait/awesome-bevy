@@ -161,6 +161,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_heavy`](https://github.com/Jondolf/bevy_heavy): Mass properties for Bevy's geometric primitives.
 - [`bevy_transform_interpolation`](https://github.com/Jondolf/bevy_transform_interpolation): Transfom interpolation for fixed timesteps for the Bevy game engine
 - [`avian_pickup`](https://github.com/janhohenheim/avian_pickup): A plugin for implementing picking up dynamic rigid bodies in Avian physics for the Bevy engine
+- [`bevy_mod_inverse_kinematics`](https://github.com/Kurble/bevy_mod_inverse_kinematics): An inverse kinematics plugin for the Bevy engine
 
 ## Pathfinding
 
@@ -187,3 +188,4 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_ui_anchor`](https://github.com/TotalKrill/bevy_ui_anchor): Microlibrary for adding anchoring to UI
 - [`bevy_immediate`](https://github.com/PPakalns/bevy_immediate/): Immediate mode UI library for Bevy, simple and extensible
 - [`bevy_material_ui`](https://github.com/edgarhsanchez/bevy_material_ui): Material UI library for bevy UI
+- [`bevy_ios_safearea`](https://github.com/rustunit/bevy_ios_safearea): Bevy plugin to query ios device safe area insets
