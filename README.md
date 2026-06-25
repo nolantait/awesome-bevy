@@ -82,6 +82,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`bevy_animation_graph`](https://github.com/mbrea-c/bevy_animation_graph): Animation graphs in Bevy
 - [`bevy_lookup_curve`](https://github.com/villor/bevy_lookup_curve): Editable lookup curve for Bevy
+- [`bevy_easings`](https://github.com/vleue/bevy_easings): Easing and simple animations for Bevy
 
 ## Cameras
 
