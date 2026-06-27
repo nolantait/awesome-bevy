@@ -48,6 +48,7 @@ Only resources that are up to date with at least `0.18` Bevy will be included.
 
 Not all resources in this section will be up to date but are useful nonetheless
 
+- [warbell](https://github.com/miskibin/warbell)
 - [foxtrot](https://github.com/janhohenheim/foxtrot)
 - [bevy-match-3](https://github.com/alice-i-cecile/bevy-match-3)
 - [Emergence](https://github.com/leafwing-studios/emergence?tab=readme-ov-file)
