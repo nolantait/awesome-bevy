@@ -33,6 +33,7 @@ Only resources that are up to date with at least `0.18` Bevy will be included.
   Breaks the version rule above but still great content
 - [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/): Not
   quite bevy but an awesome read, lots of crossover
+- [Bevy Constellation](https://crates.rugaex.com/#v=0.19): Visualize updated crates in the Bevy ecosystem
 
 ## Starters
 
@@ -72,12 +73,21 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_common_assets`](https://github.com/NiklasEi/bevy_common_assets): Collection of generic asset loaders for common file formats
 - [`bevy_mod_mipmap_generator`](https://github.com/DGriffin91/bevy_mod_mipmap_generator): A basic mipmap generator for Bevy
 - [`bevy_water`](https://github.com/Neopallium/bevy_water): Dynamic ocean material for Bevy
-
+- [`bevy_ecs_ldtk`](https://github.com/Trouv/bevy_ecs_ldtk): ECS-friendly ldtk plugin for bevy, leveraging `bevy_ecs_tilemap`
+- [`bevy_ecs_tiled`](https://github.com/adrien-bon/bevy_ecs_tiled): Helpers for working with 2D tilemaps created with the Tiled map editor
+- [`bevy-persistent`](https://github.com/umut-sahin/bevy-persistent/): A Bevy helper to easily manage resources that need to persist across game sessions
+- [`bevy-yoleck`](https://github.com/idanarye/bevy-yoleck): Your Own Level Editor Creation Kit
+- [`bevy_procedural_tilemaps`](https://github.com/jamesfebin/bevy_procedural_tilemaps): Lightweight 2D tilemap generation with Wave Function Collapse / Model Synthesis for Bevy
+- [`bevy_svg`](https://github.com/Weasy666/bevy_svg/): A simple and incomplete SVG drawer for the Bevy engine
+- [`bevy_simple_prefs`](https://github.com/rparrett/bevy_simple_prefs): A small Bevy plugin for persisting multiple Resources to a single file
+- [`bevy_obj`](https://github.com/AmionSky/bevy_obj): Wavefront OBJ mesh asset loader plugin for the Bevy engine
+- [`bevy_embedded_assets`](https://github.com/vleue/bevy_embedded_assets): Embed assets in your Bevy game
 
 ## Audio
 
 - [`bevy_fmod`](https://github.com/Salzian/bevy_fmod): Idiomatic integration of the FMOD audio engine into Bevy projects
 - [`bevy_seedling`](https://github.com/CorvusPrudens/bevy_seedling): A sprouting integration of the Firewheel audio engine
+- [`bevy_kira_audio`](https://github.com/NiklasEi/bevy_kira_audio): A Bevy plugin to use Kira for game audio
 
 ## Animation
 
@@ -112,6 +122,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy-inspection.vscode`](https://github.com/foxication/bevy-inspection.vscode): Bevy Inspection - VSCode Extension
 - [`HillVacuum`](https://github.com/IvoryDuke/HillVacuum): A bevy-based 2D map editor
 - [`vscode-bevy-inspector`](https://github.com/splo/vscode-bevy-inspector): Bevy Inspector Visual Studio Code Extension
+- [`bevy_aseprite_ultra`](https://github.com/Lommix/bevy_aseprite_ultra): The ultimate bevy aseprite binary plugin. Featuring animations and static atlas loading with pivots. Full support for hot reloading!
 
 ## Graphics and Rendering
 
@@ -122,6 +133,9 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`shadplay`](https://github.com/alphastrata/shadplay): Real-time wgsl visualisation tooling for educating oneself in the art of shader programming
 - [`bevy_feronia`](https://github.com/NicoZweifel/bevy_feronia): Environment scattering tools and shaders/materials that prioritize visual fidelity/artistic freedom, a declarative API and modularity
 - [`bevy_firework`](https://github.com/mbrea-c/bevy_firework): CPU-driven, batch-rendered particle system for the Bevy game engine
+- [`bevy_enoki`](https://github.com/Lommix/bevy_enoki): 2D particle system with custom material traits. Works well in wasm webgl2 and mobile
+- [`noisy_bevy`](https://github.com/johanhelsing/noisy_bevy): Simple stupid noise primitives for WGSL and Rust (glam/bevy types)
+- [`bevy_spritesheet_animation`](https://github.com/merwaaan/bevy_spritesheet_animation): A Bevy plugin for easily animating 2D and 3D sprites
 
 ## Input
 
@@ -130,6 +144,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_ui_text_input`](https://github.com/ickshonpe/bevy_ui_text_input): Text input crate for Bevy UI using cosmic text
 - [`bevy_ahoy`](https://github.com/janhohenheim/bevy_ahoy): A fun 3D Kinematic Character Controller for Bevy
 - [`bevy-tnua`](https://github.com/idanarye/bevy-tnua): A floating character controller for Bevy
+- [`bevy_oxr`](https://github.com/awtterpip/bevy_oxr): A crate for adding openxr (and in the future webxr) support to Bevy
 
 ## Networking
 
@@ -155,6 +170,8 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`hexx`](https://github.com/ManevilleF/hexx): Hexagonal tools lib in rust
 - [`bevy-in-web-worker`](https://github.com/jinleili/bevy-in-web-worker): Running a Bevy app in a Web Worker and interacting with HTML elements and the Bevy engine
 - [`leafwing_manifest`](https://github.com/leafwing-Studios/leafwing_manifest): Data-driven content generation for Bevy
+- [`bevy_rand`](https://github.com/Bluefinger/bevy_rand): A plugin to integrate rand for ECS optimised RNG for the Bevy game engine
+- [`bevy_http_client`](https://github.com/foxzool/bevy_http_client): A simple HTTP client Bevy Plugin for both native and WASM
 
 ## Physics
 
@@ -179,6 +196,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 ## Testing
 
 - [`rmv-bevy-testing-tools`](https://github.com/rmvermeulen/rmv-bevy-testing-tools): Some tools to make testing bevy stuff easier
+- [`bevy_console`](https://github.com/makspll/bevy-console): A simple Half-Life inspired console with support for argument parsing powered by `clap`
 
 ## UI
 
@@ -191,3 +209,5 @@ Not all resources in this section will be up to date but are useful nonetheless
 - [`bevy_immediate`](https://github.com/PPakalns/bevy_immediate/): Immediate mode UI library for Bevy, simple and extensible
 - [`bevy_material_ui`](https://github.com/edgarhsanchez/bevy_material_ui): Material UI library for bevy UI
 - [`bevy_ios_safearea`](https://github.com/rustunit/bevy_ios_safearea): Bevy plugin to query ios device safe area insets
+- [`bevy_hui`](https://github.com/Lommix/bevy_hui): Component based UI crate using Xml/Html with focus on hot reload for the bevy engine
+- [`bevy_flair`](https://github.com/eckz/bevy_flair): Bevy UI styling using CSS
