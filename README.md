@@ -34,6 +34,7 @@ Only resources that are up to date with at least `0.18` Bevy will be included.
 - [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com/): Not
   quite bevy but an awesome read, lots of crossover
 - [Bevy Constellation](https://crates.rugaex.com/#v=0.19): Visualize updated crates in the Bevy ecosystem
+- [BevyDex](https://bevydex.dev/dex): Find updated and popular dependencies for Bevy
 
 ## Starters
 
