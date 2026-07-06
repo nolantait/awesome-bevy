@@ -187,6 +187,7 @@ Not all resources in this section will be up to date but are useful nonetheless
 
 - [`vleue_navigator`](https://github.com/vleue/vleue_navigator): Pathfinding on NavMeshes for Bevy
 - [`bevy_northstar`](https://github.com/JtotheThree/bevy_northstar):  Hierachical Pathfinding for Bevy
+- [`bevy_rerecast`](https://github.com/janhohenheim/rerecast): Rust port of Recast, the industry-standard navigation mesh generator used by Unreal, Unity, Godot, and other game engines
 
 ## Text
 
